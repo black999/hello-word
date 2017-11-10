@@ -8,3 +8,5 @@ I only changed some leters.
 Now I change last line
 
 nowy tekst
+
+jeszcze jedna linia
