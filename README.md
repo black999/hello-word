@@ -10,3 +10,5 @@ Now I change last line
 nowy tekst
 
 jeszcze jedna linia
+
+linia dodana na gałęzi master ale nie test
